@@ -1,5 +1,5 @@
 User-agent: *
-
 Allow: /
+Disallow: /index.html
 
-Sitemap: https://zhifuxitong.github.io/zhifuxitong/sitemap.xml
+Sitemap: https://zhifuxitong.unipay2026.one/sitemap.xml
