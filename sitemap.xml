@@ -3,7 +3,7 @@
 
 <!-- 主页 -->
 <url>
-  <loc>https://zhifuxitong.github.io/zhifuxitong/index.html</loc>
+  <loc>https://zhifuxitong.unipay2026.one/</loc>
   <lastmod>2026-03-12</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
 <!-- 系统介绍页面 -->
 <url>
-  <loc>https://zhifuxitong.github.io/zhifuxitong/system.html</loc>
+  <loc>https://zhifuxitong.unipay2026.one/system.html</loc>
   <lastmod>2026-03-12</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.9</priority>
@@ -19,7 +19,7 @@
 
 <!-- 解决方案页面 -->
 <url>
-  <loc>https://zhifuxitong.github.io/zhifuxitong/solutions.html</loc>
+  <loc>https://zhifuxitong.unipay2026.one/solutions.html</loc>
   <lastmod>2026-03-12</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.9</priority>
@@ -27,7 +27,7 @@
 
 <!-- 常见问题页面 -->
 <url>
-  <loc>https://zhifuxitong.github.io/zhifuxitong/faq.html</loc>
+  <loc>https://zhifuxitong.unipay2026.one/faq.html</loc>
   <lastmod>2026-03-12</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
@@ -35,7 +35,7 @@
 
 <!-- 关于我们页面 -->
 <url>
-  <loc>https://zhifuxitong.github.io/zhifuxitong/about.html</loc>
+  <loc>https://zhifuxitong.unipay2026.one/about.html</loc>
   <lastmod>2026-03-12</lastmod>
   <changefreq>yearly</changefreq>
   <priority>0.7</priority>
@@ -43,7 +43,7 @@
 
 <!-- 联系我们页面 -->
 <url>
-  <loc>https://zhifuxitong.github.io/zhifuxitong/contact.html</loc>
+  <loc>https://zhifuxitong.unipay2026.one/contact.html</loc>
   <lastmod>2026-03-12</lastmod>
   <changefreq>yearly</changefreq>
   <priority>0.7</priority>
@@ -51,39 +51,33 @@
 
 <!-- 博客列表页面 -->
 <url>
-  <loc>https://zhifuxitong.github.io/zhifuxitong/blog.html</loc>
+  <loc>https://zhifuxitong.unipay2026.one/blog.html</loc>
   <lastmod>2026-03-12</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.9</priority>
 </url>
 
 <!-- 博客文章列表 -->
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article1.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article2.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article3.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article4.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article5.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article6.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article7.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article8.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article9.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article10.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article1.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article2.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article3.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article4.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article5.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article6.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article7.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article8.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article9.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article10.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article11.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article12.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article13.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article14.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article15.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article16.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article17.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article18.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article19.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article20.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-
-<!-- 剩余文章可按照相同格式继续到 article50.html -->
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article21.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article22.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-...
-<url><loc>https://zhifuxitong.github.io/zhifuxitong/articles/article50.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article11.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article12.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article13.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article14.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article15.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article16.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article17.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article18.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article19.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zhifuxitong.unipay2026.one/articles/article20.html</loc><lastmod>2026-03-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
 </urlset>
